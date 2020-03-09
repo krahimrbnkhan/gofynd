@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/gofynd/static/css/main.122168b5.chunk.css",
+    "main.js": "/gofynd/static/js/main.282176f9.chunk.js",
+    "main.js.map": "/gofynd/static/js/main.282176f9.chunk.js.map",
+    "runtime-main.js": "/gofynd/static/js/runtime-main.0427f08c.js",
+    "runtime-main.js.map": "/gofynd/static/js/runtime-main.0427f08c.js.map",
+    "static/js/2.655ddf1c.chunk.js": "/gofynd/static/js/2.655ddf1c.chunk.js",
+    "static/js/2.655ddf1c.chunk.js.map": "/gofynd/static/js/2.655ddf1c.chunk.js.map",
+    "index.html": "/gofynd/index.html",
+    "precache-manifest.f17d249618c2020d294db32a44fd3aa4.js": "/gofynd/precache-manifest.f17d249618c2020d294db32a44fd3aa4.js",
+    "service-worker.js": "/gofynd/service-worker.js",
+    "static/css/main.122168b5.chunk.css.map": "/gofynd/static/css/main.122168b5.chunk.css.map",
+    "static/js/2.655ddf1c.chunk.js.LICENSE.txt": "/gofynd/static/js/2.655ddf1c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0427f08c.js",
+    "static/js/2.655ddf1c.chunk.js",
+    "static/css/main.122168b5.chunk.css",
+    "static/js/main.282176f9.chunk.js"
+  ]
+}
